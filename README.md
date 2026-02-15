@@ -68,7 +68,7 @@ An example of how the tool processes a request for "Sharry Mann":
 ## 📸 Screenshot
 
 
-[![Web Interrface](img.png)
+![Web Interrface](img.png)
 
 
 ## 🚀 Usage
